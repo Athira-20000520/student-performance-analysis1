@@ -28,6 +28,7 @@ dataset.csv
 project.ipynb
 README.md
 screenshots folder
-👩‍🎓 Outcome
+
+ Outcome:
 
 This project helps to understand student performance trends and improve academic planning.
